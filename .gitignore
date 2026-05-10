@@ -1,0 +1,24 @@
+# ORCA output/scratch files
+*.gbw
+*.bas0
+*.bas1
+*.bas2
+*.bas3
+*.bas4
+*.bas5
+*.densities
+*.densitiesinfo
+*.bibtex
+*.engrad
+*.hess
+*.opt
+*.inp
+*.out
+*.property.txt
+*.SHARKINP.tmp
+*.citations.tmp
+*.int.tmp
+*.ginp.tmp
+*_trj.xyz
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
